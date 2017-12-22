@@ -1,0 +1,215 @@
+---
+# CHANGE "DEFAULT" to your own custom name!
+# DEFAULT = ITEM NAME E.G: 303:0:1:DEFAULT:armor_protection:1
+starter:
+  items:
+  - 276:0:1:DEFAULT:sharpness:1:unbreaking:1
+  - 278:0:1:DEFAULT:unbreaking:1:efficiency:1
+  - 279:0:1:DEFAULT:unbreaking:1:efficiency:1
+  - 277:0:1:DEFAULT:efficiency:1:unbreaking:1
+  - 393:0:64:DEFAULT
+  - 322:0:3:DEFAULT
+  - 264:0:3:DEFAULT
+  - 265:0:3:DEFAULT
+  - 266:0:3:DEFAULT
+  - 17:0:8:DEFAULT
+  - 49:0:6:DEFAULT
+  - 7:0:1:DEFAULT
+  helmet: 310:0:1:DEFAULT:protection:1:unbreaking:1
+  chestplate: 311:0:1:DEFAULT:protection:1:unbreaking:1
+  leggings: 312:0:1:DEFAULT:protection:1:unbreaking:1
+  boots: 313:0:1:DEFAULT:protection:1:unbreaking:1
+  commands: []
+  cooldown:
+    hours: 0
+    minutes: 0
+  worlds:
+  - Hyf
+  users:
+  - Krxken
+weekly:
+  items:
+  - 276:0:1:DEFAULT:sharpness:1:unbreaking:1
+  - 278:0:1:DEFAULT:unbreaking:1:efficiency:1
+  - 279:0:1:DEFAULT:unbreaking:1:efficiency:1
+  - 277:0:1:DEFAULT:efficiency:1:unbreaking:1
+  - 393:0:64:DEFAULT
+  - 322:0:6:DEFAULT
+  - 264:0:6:DEFAULT
+  - 265:0:6:DEFAULT
+  - 266:0:6:DEFAULT
+  - 17:0:16:DEFAULT
+  - 49:0:12:DEFAULT
+  - 7:0:2:DEFAULT
+  helmet: 310:0:1:DEFAULT:protection:2:unbreaking:1
+  chestplate: 311:0:1:DEFAULT:protection:2:unbreaking:1
+  leggings: 312:0:1:DEFAULT:protection:2:unbreaking:1
+  boots: 313:0:1:DEFAULT:protection:2:unbreaking:1
+  commands: []
+  cooldown:
+    hours: 0
+    minutes: 0
+  worlds:
+  - Hyf
+  users:
+  - Krxken
+monthly:
+  items:
+  - 276:0:1:DEFAULT:sharpness:2:unbreaking:1
+  - 278:0:1:DEFAULT:unbreaking:1:efficiency:1
+  - 279:0:1:DEFAULT:unbreaking:1:efficiency:1
+  - 277:0:1:DEFAULT:efficiency:1:unbreaking:1
+  - 393:0:64:DEFAULT
+  - 322:0:6:DEFAULT
+  - 264:0:9:DEFAULT
+  - 265:0:9:DEFAULT
+  - 266:0:9:DEFAULT
+  - 17:0:24:DEFAULT
+  - 49:0:18:DEFAULT
+  - 7:0:3:DEFAULT
+  helmet: 310:0:1:DEFAULT:protection:3:unbreaking:1
+  chestplate: 311:0:1:DEFAULT:protection:3:unbreaking:1
+  leggings: 312:0:1:DEFAULT:protection:3:unbreaking:1
+  boots: 313:0:1:DEFAULT:protection:3:unbreaking:1
+  commands: []
+  cooldown:
+    hours: 0
+    minutes: 0
+  worlds:
+  - Hyf
+  users:
+  - Krxken
+overlord:
+  items:
+  - 276:0:1:DEFAULT:sharpness:10:unbreaking:5
+  - 278:0:1:DEFAULT:unbreaking:5:efficiency:8
+  - 279:0:1:DEFAULT:unbreaking:5:efficiency:8
+  - 277:0:1:DEFAULT:efficiency:8:unbreaking:5
+  - 393:0:64:DEFAULT
+  helmet: 310:0:1:DEFAULT:protection:10:unbreaking:5
+  chestplate: 311:0:1:DEFAULT:protection:10:unbreaking:5
+  leggings: 312:0:1:DEFAULT:protection:10:unbreaking:5
+  boots: 313:0:1:DEFAULT:protection:10:unbreaking:5
+  commands: []
+  cooldown:
+    hours: 0
+    minutes: 0
+  worlds:
+  - Hyf
+  users:
+  - Krxken
+sharkbite:
+  items:
+  - 276:0:1:DEFAULT:sharpness:11:unbreaking:5
+  - 278:0:1:DEFAULT:unbreaking:5:efficiency:9
+  - 279:0:1:DEFAULT:unbreaking:5:efficiency:9
+  - 277:0:1:DEFAULT:efficiency:9:unbreaking:5
+  - 393:0:64:DEFAULT
+  helmet: 310:0:1:DEFAULT:protection:11:unbreaking:5
+  chestplate: 311:0:1:DEFAULT:protection:11:unbreaking:5
+  leggings: 312:0:1:DEFAULT:protection:11:unbreaking:5
+  boots: 313:0:1:DEFAULT:protection:11:unbreaking:5
+  commands: []
+  cooldown:
+    hours: 0
+    minutes: 0
+  worlds:
+  - Hyf
+  users:
+  - Krxken
+titan:
+  items:
+  - 276:0:1:DEFAULT:sharpness:12:unbreaking:5
+  - 278:0:1:DEFAULT:unbreaking:5:efficiency:10
+  - 279:0:1:DEFAULT:unbreaking:5:efficiency:10
+  - 277:0:1:DEFAULT:efficiency:10:unbreaking:5
+  - 393:0:64:DEFAULT
+  helmet: 310:0:1:DEFAULT:protection:15:unbreaking:5
+  chestplate: 311:0:1:DEFAULT:protection:15:unbreaking:5
+  leggings: 312:0:1:DEFAULT:protection:15:unbreaking:5
+  boots: 313:0:1:DEFAULT:protection:15:unbreaking:5
+  commands: []
+  cooldown:
+    hours: 0
+    minutes: 0
+  worlds:
+  - Hyf
+  users:
+  - Krxken
+enderdragon:
+  items:
+  - 276:0:1:DEFAULT:sharpness:13:unbreaking:5
+  - 278:0:1:DEFAULT:unbreaking:5:efficiency:13
+  - 279:0:1:DEFAULT:unbreaking:5:efficiency:13
+  - 277:0:1:DEFAULT:efficiency:13:unbreaking:5
+  - 393:0:64:DEFAULT
+  helmet: 310:0:1:DEFAULT:protection:13:unbreaking:5
+  chestplate: 311:0:1:DEFAULT:protection:13:unbreaking:5
+  leggings: 312:0:1:DEFAULT:protection:13:unbreaking:5
+  boots: 313:0:1:DEFAULT:protection:13:unbreaking:5
+  commands: []
+  cooldown:
+    hours: 0
+    minutes: 0
+  worlds:
+  - Hyf
+  users:
+  - Krxken
+jesus:
+  items:
+  - 276:0:1:DEFAULT:sharpness:14:unbreaking:5
+  - 278:0:1:DEFAULT:unbreaking:5:efficiency:12
+  - 279:0:1:DEFAULT:unbreaking:5:efficiency:12
+  - 277:0:1:DEFAULT:efficiency:12:unbreaking:5
+  - 393:0:64:DEFAULT
+  helmet: 310:0:1:DEFAULT:protection:20:unbreaking:5
+  chestplate: 311:0:1:DEFAULT:protection:20:unbreaking:5
+  leggings: 312:0:1:DEFAULT:protection:20:unbreaking:5
+  boots: 313:0:1:DEFAULT:protection:20:unbreaking:5
+  commands: []
+  cooldown:
+    hours: 0
+    minutes: 0
+  worlds:
+  - Hyf
+  users:
+  - Krxken
+god:
+  items:
+  - 276:0:1:DEFAULT:sharpness:15:unbreaking:5
+  - 278:0:1:DEFAULT:unbreaking:5:efficiency:13
+  - 279:0:1:DEFAULT:unbreaking:5:efficiency:13
+  - 277:0:1:DEFAULT:efficiency:13:unbreaking:5
+  - 393:0:64:DEFAULT
+  helmet: 310:0:1:DEFAULT:protection:25:unbreaking:5
+  chestplate: 311:0:1:DEFAULT:protection:25:unbreaking:5
+  leggings: 312:0:1:DEFAULT:protection:25:unbreaking:5
+  boots: 313:0:1:DEFAULT:protection:25:unbreaking:5
+  commands: []
+  cooldown:
+    hours: 0
+    minutes: 0
+  worlds:
+  - Hyf
+  users:
+  - Krxken
+Chroma:
+  items:
+  - 276:0:1:DEFAULT:sharpness:17:unbreaking:10
+  - 278:0:1:DEFAULT:unbreaking:5:efficiency:15
+  - 279:0:1:DEFAULT:unbreaking:5:efficiency:15
+  - 277:0:1:DEFAULT:efficiency:15:unbreaking:0
+  - 393:0:64:DEFAULT
+  helmet: 310:0:1:DEFAULT:protection:30:unbreaking:10
+  chestplate: 311:0:1:DEFAULT:protection:30:unbreaking:10
+  leggings: 312:0:1:DEFAULT:protection:30:unbreaking:10
+  boots: 313:0:1:DEFAULT:protection:30:unbreaking:10
+  commands: []
+  cooldown:
+    hours: 0
+    minutes: 0
+  worlds:
+  - Hyf
+  users:
+  - Krxken
+...
